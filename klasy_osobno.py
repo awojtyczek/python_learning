@@ -40,7 +40,7 @@ class Kot:
             self.ilosc_energii += jedzonko.ilosc_kalorii
             self.zjedzone.append(jedzonko)
         else:
-            print("chuj ci w dupe z takim jedzeniem!!!!")
+            print("jestem kotem i nie jem takich rzeczy")
 
 
     def biegaj(self):
